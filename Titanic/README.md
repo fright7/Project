@@ -1,6 +1,9 @@
 # Titanic Prediction
-
 This is data analysis for titanic data. 
+
+## Prerequisite
+Seaborn, pandas, sklearn, matplotlib
+
 ## Simple Description about this dataset
 
 ---------------------------------------------------------------------
