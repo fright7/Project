@@ -1,4 +1,5 @@
 # Iris prediction project
+This is for predict type of iris and do unsupervised learning for clustering
 
 ## Prerequisite
 Seaborn, pandas, sklearn, matplotlib, scipy
