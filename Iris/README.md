@@ -1,6 +1,6 @@
 # Iris prediction project
 
-## prerequisite
+## Prerequisite
 Seaborn, pandas, sklearn, matplotlib, scipy
 
 ## Dataset that I use
