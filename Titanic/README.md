@@ -1,6 +1,10 @@
 # Titanic Prediction
+This is data analysis for titanic data.
+And predict whether crew survived or not through properties of crew
 
-This is data analysis for titanic data. 
+## Prerequisite
+Seaborn, pandas, sklearn, matplotlib
+
 ## Simple Description about this dataset
 
 ---------------------------------------------------------------------
